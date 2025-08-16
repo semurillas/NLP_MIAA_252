@@ -15,25 +15,28 @@ This is the GitHub repository with all the files required to develop of the Prac
 
 ## GitHub Project Structure
 
-├── Sesion 1/
-│ ├── Learning/
-│ │ ├── 1-spacy-basics.ipynb
-│ │ ├── 2-tokenization.ipynb
-│ │ ├── 3-stemming.ipynb
-│ │ ├── 4-lemmatization.ipynb
-│ │ └── 5-vocabulary.ipynb
-│ ├── Practice/
-│ │ ├── 6-practice.ipynb
-│ │ └── 7-sentiment-analysis.ipynb
-│ └── datasets/
-│ └── tripadvisor_hotel_reviews.csv
-├── texts/
-│ ├── 2 - Recomendador de capacitación para cierre de brechas laborales en Coomeva.docx
-│ ├── Anteproyecto - Mario Nelson.docx
-│ └── Proyecto - Despliegue Modelos IA - Microservicios - Informe Final v3.docx
-├── requirements.txt # for 6-practice.ipynb
-├── requirements-7.txt # for 7-sentiment-analysis.ipynb
-└── README.md
+```
+📂 Sesion 1/
+│ 📂 Learning/
+│ │ 📓 1-spacy-basics.ipynb
+│ │ 📓 2-tokenization.ipynb
+│ │ 📓 3-stemming.ipynb
+│ │ 📓 4-lemmatization.ipynb
+│ │ 📓 5-vocabulary.ipynb
+│ 📂 Practice/
+│ │ 📓 6-practice.ipynb
+│ │ 📓 7-sentiment-analysis.ipynb
+│ 📂 datasets/
+│ 📄 tripadvisor_hotel_reviews.csv
+📂 texts/
+│ 📄 2 - Recomendador de capacitación para cierre de brechas laborales en Coomeva.docx
+│ 📄 Anteproyecto - Mario Nelson.docx
+│ 📄 Proyecto - Despliegue Modelos IA - Microservicios - Informe Final v3.docx
+📄 requirements.txt # dependencies for 6-practice.ipynb
+📄 requirements-7.txt # dependencies for 7-sentiment-analysis.ipynb
+📄 README.md
+
+```
 
 ## Understanding Files and Use
 - Readme.md is this file
