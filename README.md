@@ -54,5 +54,5 @@ This is the GitHub repository with all the files required to develop of the Prac
 - The Google Colab Notebook file **7-sentiment-analysis.ipynb** has in it a link to open in "Google Colab". Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
 
 
-<h3>📅 Fecha: Agosto 15, 2025</h3>
+<h3>📅 Date: August 15, 2025</h3>
  
