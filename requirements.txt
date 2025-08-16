@@ -15,7 +15,7 @@ torch>=2.6
 torchvision>=0.21
 torchaudio>=2.6
 lightning>=2.2
-tensorboard>=2.19
+tensorboard==2.19.0
 accelerate>=0.30
 evaluate>=0.4
 
@@ -30,4 +30,5 @@ bokeh>=3.5
 # Utils
 gradio>=4.36
 ollama>=0.2
+websockets>=14.0
 python-docx
