@@ -39,19 +39,23 @@ This is the GitHub repository with all the files required to develop of the Prac
 
 ```
 
-## Understanding Files and Use
-- **README.md** is this file
-- The Google Colab Notebooks files **1 to 5** in the Directory **Learning** are to be used to Learn the basic use of Spacey and NTLK. It's just for the learning process.
-- The Google Colab Notebooks files **6-practice.ipynb** and **7-sentiment-analysis** are the final developing done by the Group.
-- The file **tripadvisor_hotel_reviews.csv** in the Directory **datasets** is the dataset selected to be used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
-- The Directory **texts** contains the files used by each student of the Group in the analysis process in the Google Colab Notebook **6-practice.ipynb**
-- The file **requirements.txt** contains the libraries and dependencies used in the Google Colab Notebook **6-practice.ipynb**
-- The file **requirements-7.txt** contains the libraries and dependencies used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Learning/** (Notebooks 1–5) | Introductory notebooks to learn the basics of **spaCy** and **NLTK**. Intended for practice and learning only. |
+| **Practice/6-practice.ipynb** | Group’s developed notebook for applied exercises. |
+| **Practice/7-sentiment-analysis.ipynb** | Final notebook with sentiment analysis implementation and evaluation. |
+| **datasets/tripadvisor_hotel_reviews.csv** | Dataset used in **7-sentiment-analysis.ipynb**. |
+| **texts/** | Supporting documents prepared by group members for the analysis in **6-practice.ipynb**. |
+| **requirements.txt** | Libraries and dependencies required to run **6-practice.ipynb**. |
+| **requirements-7.txt** | Libraries and dependencies required to run **7-sentiment-analysis.ipynb**. |
+
 
 ## How to Use
 
-- The Google Colab Notebook file **6-practice.ipynb** has in it a link to open in "Google Colab". Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
-- The Google Colab Notebook file **7-sentiment-analysis.ipynb** has in it a link to open in "Google Colab". Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
+Both **6-practice.ipynb** and **7-sentiment-analysis.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
 
 
 <h3>📅 Date: August 15, 2025</h3>
