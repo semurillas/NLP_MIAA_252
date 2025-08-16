@@ -1,5 +1,6 @@
 # Maestria en Inteligencia Artificial Aplicada - 3er Semestre
-## NLP_MIAA_252 - Practice Session 1
+## Natural Language Processing 
+## Practice Session 1
 
 ---
 
