@@ -50,8 +50,8 @@ This is the GitHub repository with all the files required to develop of the Prac
 
 ## How to Use
 
-- The Google Colab Notebook file **6-practice.ipynb** has in it a link to open in "Google Colab" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]. Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
-- The Google Colab Notebook file **7-sentiment-analysis.ipynb** has in it a link to open in "Google Colab" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]. Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
+- The Google Colab Notebook file **6-practice.ipynb** has in it a link to open in "Google Colab". Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
+- The Google Colab Notebook file **7-sentiment-analysis.ipynb** has in it a link to open in "Google Colab". Therefore, just "click" on the link to Open in Google Colab and run the code step by step.
 
 
 <h3>📅 Fecha: Agosto 15, 2025</h3>
