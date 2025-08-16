@@ -34,12 +34,12 @@ This is the GitHub repository with all the files required to develop of the Prac
 │ 📄 Proyecto - Despliegue Modelos IA - Microservicios - Informe Final v3.docx
 📄 requirements.txt # dependencies for 6-practice.ipynb
 📄 requirements-7.txt # dependencies for 7-sentiment-analysis.ipynb
-📄 README-first.md
+📄 README.md
 
 ```
 
 ## Understanding Files and Use
-- **README-first.md** is this file
+- **README.md** is this file
 - The Google Colab Notebooks files **1 to 5** in the Directory **Learning** are to be used to Learn the basic use of Spacey and NTLK. It's just for the learning process.
 - The Google Colab Notebooks files **6-practice.ipynb** and **7-sentiment-analysis** are the final developing done by the Group.
 - The file **tripadvisor_hotel_reviews.csv** in the Directory **datasets** is the dataset selected to be used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
