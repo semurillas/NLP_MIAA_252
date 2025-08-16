@@ -32,3 +32,4 @@ gradio>=4.36
 ollama>=0.2
 websockets>=14.0
 python-docx
+httpx>=0.28.1,<1.0.0
