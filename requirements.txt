@@ -6,9 +6,6 @@ wheel
 # Install/Update spacy
 spacy
 
-# Install the specific spacy model
-es_dep_news_trf
-
 # Other packages required
 pandas==2.2.2
 matplotlib==3.8.0
