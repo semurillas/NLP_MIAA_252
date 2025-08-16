@@ -44,8 +44,8 @@ This is the GitHub repository with all the files required to develop of the Prac
 - The Google Colab Notebooks files **6-practice.ipynb** and **7-sentiment-analysis** are the final developing done by the Group.
 - The file **tripadvisor_hotel_reviews.csv** in the Directory **datasets** is the dataset selected to be used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
 - The Directory **texts** contains the files used by each student of the Group in the analysis process in the Google Colab Notebook **6-practice.ipynb**
-- The file requirements.txt contains the libraries and dependencies used in the Google Colab Notebook **6-practice.ipynb**
-- The file requirements-7.txt contains the libraries and dependencies used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
+- The file **requirements.txt** contains the libraries and dependencies used in the Google Colab Notebook **6-practice.ipynb**
+- The file **requirements-7.txt** contains the libraries and dependencies used in the Google Colab Notebook **7-sentiment-analysis.ipynb**
 
 ## How to Use
 
