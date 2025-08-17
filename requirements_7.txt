@@ -1,15 +1,15 @@
 pandas==2.2.2
-numpy<2.3.0,>=1.23.2
-httpx<0.28.0,>=0.27.0
-websockets<=13.0,>=10.0
+numpy>=2.0.0,<2.3.0
+httpx==0.28.1
+websockets>=14.0,<15.1.0
 matplotlib==3.8.0
 seaborn==0.12.2
 scikit-learn<1.7,>=1.2
 statsmodels==0.14.0
-tqdm==4.66.1
+tqdm>=4.67
 torch==2.6.0
 lightning==2.2.0.post0
-tensorboard==2.16.2
+tensorboard==2.19.0
 bokeh<3.8.0,>=3.5.0
 transformers[torch]==4.41.2
 datasets==2.19.1
@@ -21,4 +21,4 @@ gradio==4.36.1
 ollama==0.2.1
 spacy==3.8.7
 nltk==3.9.1
-fsspec<2025.0,>=2022.5.0
+fsspec==2025.3.0
