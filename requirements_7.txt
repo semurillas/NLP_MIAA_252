@@ -17,7 +17,7 @@ torchinfo==1.8.0
 accelerate==0.30.1
 evaluate==0.4.2
 sentence-transformers==3.0.1
-gradio==4.36.1
+gradio>=4.36
 ollama==0.2.1
 spacy==3.8.7
 nltk==3.9.1
