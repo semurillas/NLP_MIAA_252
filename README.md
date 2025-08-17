@@ -8,6 +8,7 @@
 - Claudia Martinez
 - Sebastian Murillas
 - Mario J. Castellanos
+- Enrique Manzano
 - Octavio Guerra
 
 ----
