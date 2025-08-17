@@ -1,4 +1,4 @@
-pandas==2.2.2
+pandas>=2.2
 numpy>=2.0.0,<2.3.0
 httpx==0.28.1
 websockets>=14.0,<15.1.0
