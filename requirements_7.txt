@@ -21,4 +21,3 @@ gradio==4.36.1
 ollama==0.2.1
 spacy==3.8.7
 nltk==3.9.1
-fsspec==2025.3.0
