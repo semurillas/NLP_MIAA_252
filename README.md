@@ -13,6 +13,35 @@
 
 ----
 
+# Practice Session 2
+
+This is the GitHub repository with all the files required to develop of the Practice of Session 2
+
+## GitHub Project Structure for Practice Session 2
+
+```
+📂 Sesion 2/
+│ │ 📂 Practice/
+│ │ │ 📓 2_nlp_with_lstm.ipynb
+│ │ │ 📄 requirements.txt
+📄 README.md
+
+```
+
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Sesion 2/Practice/2_nlp_with_lstm.ipynb** | Group’s developed notebook for practice of Session 2. |
+| **Sesion 2/Practice/requirements.txt** | Libraries and dependencies required to run **2_nlp_with_lstm.ipynb**. |
+
+
+## How to Use
+
+The file **2_nlp_with_lstm.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
+
+
 # Practice Session 1
 
 This is the GitHub repository with all the files required to develop of the Practice of Session 1
@@ -59,34 +88,6 @@ This is the GitHub repository with all the files required to develop of the Prac
 ## How to Use
 
 Both **6-practice.ipynb** and **7-sentiment-analysis.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
-
-# Practice Session 2
-
-This is the GitHub repository with all the files required to develop of the Practice of Session 2
-
-## GitHub Project Structure for Practice Session 2
-
-```
-📂 Sesion 2/
-│ │ 📂 Practice/
-│ │ │ 📓 2_nlp_with_lstm.ipynb
-│ │ │ 📄 requirements.txt
-📄 README.md
-
-```
-
-## 📂 Files and Directories Overview
-
-| File / Directory | Purpose |
-|------------------|---------|
-| **README.md** | This documentation file. |
-| **Sesion 2/Practice/2_nlp_with_lstm.ipynb** | Group’s developed notebook for practice of Session 2. |
-| **Sesion 2/Practice/requirements.txt** | Libraries and dependencies required to run **2_nlp_with_lstm.ipynb**. |
-
-
-## How to Use
-
-The file **2_nlp_with_lstm.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
 
 
 <h3>📅 Date: August 22, 2025</h3>
