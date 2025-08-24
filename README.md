@@ -15,7 +15,7 @@
 
 # Practice Session 2
 
-This is the GitHub repository with all the files required to develop of the Practice of Session 2
+This is the GitHub repository containing all the files required to complete the practice for Session 2
 
 ## GitHub Project Structure for Practice Session 2
 
@@ -44,7 +44,7 @@ The file **2_nlp_with_lstm.ipynb** include an **Open in Colab** badge. Click the
 
 # Practice Session 1
 
-This is the GitHub repository with all the files required to develop of the Practice of Session 1
+This is the GitHub repository containing all the files required to complete the practice for Session 1
 
 ## GitHub Project Structure
 
