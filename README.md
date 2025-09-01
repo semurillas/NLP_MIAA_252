@@ -13,6 +13,34 @@
 
 ----
 
+# Practice Session 3
+
+This is the GitHub repository containing all the files required to complete the practice for Session 3
+
+## GitHub Project Structure for Practice Session 3
+
+```
+📂 Sesion 3/
+│ │ 📂 Practice/
+│ │ │ 📓 1_transformers_from_scratch.ipynb
+│ │ │ 📄 requirements.txt
+📄 README.md
+
+```
+
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Sesion 3/Practice/1_transformers_from_scratch.ipynb** | Group’s developed notebook for practice of Session 3. |
+| **Sesion 3/Practice/requirements.txt** | Libraries and dependencies required to run **1_transformers_from_scratch.ipynb**. |
+
+
+## How to Use
+
+The file **1_transformers_from_scratch.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
+
 # Practice Session 2
 
 This is the GitHub repository containing all the files required to complete the practice for Session 2
