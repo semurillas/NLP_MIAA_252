@@ -13,6 +13,35 @@
 
 ----
 
+# Practice Session 4
+
+This is the GitHub repository containing all the files required to complete the practice for Session 4
+
+## GitHub Project Structure for Practice Session 4
+
+```
+📂 Sesion 4/
+│ │ 📂 Practice/
+│ │ │ 📓 1-text-classification-with-hf.ipynb
+│ │ │ 📄 requirements.txt
+📄 README.md
+
+```
+
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Sesion 4/Practice/1-text-classification-with-hf.ipynb** | Group’s developed notebook for practice of Session 4. |
+| **Sesion 4/Practice/requirements.txt** | Libraries and dependencies required to run **1-text-classification-with-hf.ipynb**. |
+
+
+## How to Use
+
+The file **1-text-classification-with-hf.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
+
+
 # Practice Session 3
 
 This is the GitHub repository containing all the files required to complete the practice for Session 3
