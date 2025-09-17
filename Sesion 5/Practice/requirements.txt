@@ -6,21 +6,21 @@ wheel
 # NLP
 spacy>=3.8,<3.9
 nltk>=3.9
-transformers[torch]>=4.41
-datasets>=2.19
+transformers[torch]==4.44.2
+datasets==2.21.0
 sentence-transformers>=3.0
 
 # ML / DL
-torch>=2.6
-torchvision>=0.21
-torchaudio>=2.6
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
 lightning>=2.2
 tensorboard==2.19.0
-accelerate>=0.30
-evaluate>=0.4
+accelerate==0.34.2
+evaluate==0.4.2
 
 # Data / Viz
-pandas>=2.2
+pandas==2.2.2
 matplotlib>=3.8
 seaborn>=0.12
 statsmodels>=0.14
@@ -33,3 +33,10 @@ ollama>=0.2
 websockets>=14.0
 python-docx
 httpx>=0.28.1,<1.0.0
+
+# Fix numpy issue (avoid numpy.char errors)
+numpy==1.26.4
+scikit-learn==1.5.1
+
+# Kaggle API (for direct dataset downloads)
+kaggle>=1.6
