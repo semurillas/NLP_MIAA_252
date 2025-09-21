@@ -13,6 +13,34 @@
 
 ----
 
+# Practice Session 5
+
+This is the GitHub repository containing all the files required to complete the practice for Session 5
+
+## GitHub Project Structure for Practice Session 5
+
+```
+📂 Sesion 5/
+│ │ 📂 Practice/
+│ │ │ 📓 1_text_generation.ipynb
+│ │ │ 📄 requirements.txt
+📄 README.md
+
+```
+
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Sesion 5/Practice/1_text_generation.ipynb** | Group’s developed notebook for practice of Session 5. |
+| **Sesion 5/Practice/requirements.txt** | Libraries and dependencies required to run **1_text_generation.ipynb**. |
+
+
+## How to Use
+
+The file **1_text_generation.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
+
 # Practice Session 4
 
 This is the GitHub repository containing all the files required to complete the practice for Session 4
@@ -147,4 +175,4 @@ This is the GitHub repository containing all the files required to complete the 
 Both **6-practice.ipynb** and **7-sentiment-analysis.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
 
 
-<h3>📅 Date: September 14, 2025</h3>
+<h3>📅 Date: September 21, 2025</h3>
