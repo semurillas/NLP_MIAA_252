@@ -4,6 +4,7 @@ requests==2.32.4
 
 # Librerías de NLP y entorno
 langchain-ollama
+langchain-community
 langchain-huggingface
 ollama
 faiss-cpu
