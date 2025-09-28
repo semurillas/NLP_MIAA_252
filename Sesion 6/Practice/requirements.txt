@@ -2,11 +2,11 @@
 numpy==2.0.2
 requests==2.32.4
 
-# Librerías de procesamiento de lenguaje natural y herramientas
+# Librerías de NLP y entorno
 langchain-ollama
 langchain-huggingface
 ollama
-faiss-gpu-cu12
+faiss-cpu
 sentence-transformers
 gradio
 colab-xterm
