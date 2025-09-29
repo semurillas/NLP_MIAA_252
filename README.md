@@ -36,7 +36,7 @@ This is the GitHub repository containing all the files required to complete the 
 | **README.md** | This documentation file. |
 | **Sesion 6/Practice/2-ollama-langchain.ipynb** | Group’s developed notebook for practice of Session 6. |
 | **Sesion 6/Practice/requirements.txt** | Libraries and dependencies required to run **2-ollama-langchain.ipynb**. |
-| **Sesion 6/Practice/Practica_6_Imagenes_Prueba_Chatbot.pdf** | Archivo con imagenes tomadas de las Pruebas hechas con el Chatbot respondiendo a preguntas de prueba. |
+| **Sesion 6/Practice/Practica_6_Imagenes_Prueba_Chatbot.pdf** | File with images taken from the tests performed with the Chatbot responding to sample questions. |
 
 
 ## How to Use
