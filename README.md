@@ -13,6 +13,36 @@
 
 ----
 
+# Practice Session 6
+
+This is the GitHub repository containing all the files required to complete the practice for Session 6
+
+## GitHub Project Structure for Practice Session 6
+
+```
+📂 Sesion 5/
+│ │ 📂 Practice/
+│ │ │ 📓 Practica_6_Imagenes_Prueba_Chatbot.pdf
+│ │ │ 📓 2-ollama-langchain.ipynb
+│ │ │ 📄 requirements.txt
+📄 README.md
+
+```
+
+## 📂 Files and Directories Overview
+
+| File / Directory | Purpose |
+|------------------|---------|
+| **README.md** | This documentation file. |
+| **Sesion 6/Practice/2-ollama-langchain.ipynb** | Group’s developed notebook for practice of Session 6. |
+| **Sesion 6/Practice/requirements.txt** | Libraries and dependencies required to run **2-ollama-langchain.ipynb**. |
+| **Sesion 6/Practice/Practica_6_Imagenes_Prueba_Chatbot.pdf** | Archivo con imagenes tomadas de las Pruebas hechas con el Chatbot respondiendo a preguntas de prueba. |
+
+
+## How to Use
+
+The file **2-ollama-langchain.ipynb** include an **Open in Colab** badge. Click the badge to launch the notebook in Google Colab, then run the cells sequentially (top to bottom).
+
 # Practice Session 5
 
 This is the GitHub repository containing all the files required to complete the practice for Session 5
